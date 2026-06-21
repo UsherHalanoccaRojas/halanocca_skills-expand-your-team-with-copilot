@@ -172,6 +172,17 @@ initial_activities = {
         "difficulty": "Advanced",
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into the world of samurai, ninjas, and shonen heroes! Join us to explore iconic series, debate epic storylines, and discover hidden gems from the vast universe of Japanese Manga (graphic novels).",
+        "schedule": "Tuesdays, 7:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
     }
 }
 
